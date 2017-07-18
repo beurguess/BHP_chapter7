@@ -3,6 +3,6 @@
 
 import os
 
-def run(**kw):
+def run(**kwargs):
     print("[*] In environment module.")
     return str(os.environ)

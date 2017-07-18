@@ -3,6 +3,6 @@
 
 import os
 
-def run(**kw):
+def run(**kwargs):
     print("[*] In dirlister module.")
     return str(os.listdir("."))
