@@ -1,7 +1,9 @@
 [
     {
         "module": "dirlister",
-        "kwargs": {}
+        "kwargs": {
+                    "path": "/home"
+                }
     },
     {
         "module": "environment",
